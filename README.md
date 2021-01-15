@@ -63,15 +63,30 @@ OS 및 DB : Windows 10, Linux, MariaDB
 ## 레시피 게시판 예시
 
 #### 메인 화면
+```
+처음 사이트 방문시 재료를 검색하여 레시피 조회  
+웹사이트에 대한 간단한 소개와 레시피 게시물 조회
+```
 ![search](https://user-images.githubusercontent.com/68311262/104751431-b8ae2c80-5798-11eb-8f13-168227875ceb.JPG)
 ![main](https://user-images.githubusercontent.com/68311262/104753025-c82e7500-579a-11eb-8274-e2339b2408d2.JPG)
 ***
 
 #### 레시피 목록보기
+```
+전체, 제목, 작성자, 카테고리별로 레시피 검색 가능  
+새 레시피 등록시 로그인 필수  
+최신순, 추천순, 조회순 별로 레시피 검색가능  
+```
 ![list](https://user-images.githubusercontent.com/68311262/104753062-d41a3700-579a-11eb-86a9-3314f804bbd5.JPG)
 ***
 
 #### 레시피 상세보기
+```
+로그인 사용자와 게시물 작성자와 일치시에만 레시피 수정, 삭제 가능  
+방문자가 부족한 재료를 주문할 수 있도록 shop에 연결  
+'좋아요' 누를 시 마이페이지에서 자신이 '좋아요 누른 레시피'로 연결  
+댓글 기능을 통해 여러 사용자와 의사소통 가능
+```
 ![detail1](https://user-images.githubusercontent.com/68311262/104753706-b39eac80-579b-11eb-9431-c9d9f434fd7e.JPG)
 ![detail2](https://user-images.githubusercontent.com/68311262/104753719-b8636080-579b-11eb-8fd0-6b71fb1c657a.JPG)
 ![detail3](https://user-images.githubusercontent.com/68311262/104753754-c4e7b900-579b-11eb-88c3-ffc2e75c0208.JPG)
@@ -79,5 +94,12 @@ OS 및 DB : Windows 10, Linux, MariaDB
 ***
 
 #### 레시피 등록하기
+```
+회원에게만 접근 가능  
+자신이 올릴 레시피에 대해 간단히 소개하고 사진 등록  
+분류할 카테고리 목록, 조리시간, 몇인분, 요리 난이도 체크  
+재료 이름과 양 추가  
+재료 순서 사진 + 설명 추가
+```
 ![add1](https://user-images.githubusercontent.com/68311262/104753769-cadd9a00-579b-11eb-9f3b-78aa2d8335f6.JPG)
 ![add2](https://user-images.githubusercontent.com/68311262/104753777-cd3ff400-579b-11eb-8ff6-c5510ccd1cea.JPG)
