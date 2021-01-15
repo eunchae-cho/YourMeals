@@ -1,14 +1,19 @@
 
 
-# YourMeals &middot; [![Build Status](https://img.shields.io/travis/npm/npm/latest.svg?style=flat-square)](https://travis-ci.org/npm/npm) [![npm](https://img.shields.io/npm/v/npm.svg?style=flat-square)](https://www.npmjs.com/package/npm) [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](http://makeapullrequest.com) [![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg?style=flat-square)](https://github.com/your/your-project/blob/master/LICENSE)
-> Additional information or tag line
+# YourMeals (너의 식사는...?)
 
-A brief description of your project, what it is used for.
+최근 코로나19로 인해 집에 머무는 시간이 늘어나면서 집에서 밥을 직접 해먹는 횟수가 증가했습니다.
+집에 남아 있는 재료를 이용하여 식사를 하고 싶은데 활용할 레시피가 마땅히 떠오르지 않아 
+모두가 한 번쯤은 무엇을 해 먹을지 고민해본 적이 있을 것입니다.
+'YOURMEALS' 프로젝트는 집 냉장고의 재료만으로 쉽게 만들 수 있는 레시피를 서로 공유하며, 
+만약 부족한 재료가 있다면 재료를 주문할 수 있는 'SHOP'기능을 추가하여 빠른 배송(24시간이내)으로 주문한 재료를 받아 요리할 수 있습니다.
+또한 팔로잉/팔로워 기능을 통하여 다른 사용자들과 레시피를 공유하고 소통할 수 있습니다.
 
-## Installing / Getting started
+## 팀원 소개
 
-A quick introduction of the minimal setup you need to get a hello world up &
-running.
+**오세준** 
+  - *팀장*
+  - 관리자 
 
 ```shell
 commands here
