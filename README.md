@@ -60,7 +60,24 @@ OS 및 DB : Windows 10, Linux, MariaDB
 개발 Tool : Eclipse, VS Code, GitHub
 ```
 
-## 웹사이트 예시
+## 레시피 게시판 예시
 
 #### 메인 화면
 ![search](https://user-images.githubusercontent.com/68311262/104751431-b8ae2c80-5798-11eb-8f13-168227875ceb.JPG)
+![main](https://user-images.githubusercontent.com/68311262/104753025-c82e7500-579a-11eb-8274-e2339b2408d2.JPG)
+***
+
+#### 레시피 목록보기
+![list](https://user-images.githubusercontent.com/68311262/104753062-d41a3700-579a-11eb-86a9-3314f804bbd5.JPG)
+***
+
+#### 레시피 상세보기
+![detail1](https://user-images.githubusercontent.com/68311262/104753706-b39eac80-579b-11eb-9431-c9d9f434fd7e.JPG)
+![detail2](https://user-images.githubusercontent.com/68311262/104753719-b8636080-579b-11eb-8fd0-6b71fb1c657a.JPG)
+![detail3](https://user-images.githubusercontent.com/68311262/104753754-c4e7b900-579b-11eb-88c3-ffc2e75c0208.JPG)
+![detail4](https://user-images.githubusercontent.com/68311262/104753762-c7e2a980-579b-11eb-850d-47e54cff3016.JPG)
+***
+
+#### 레시피 등록하기
+![add1](https://user-images.githubusercontent.com/68311262/104753769-cadd9a00-579b-11eb-9f3b-78aa2d8335f6.JPG)
+![add2](https://user-images.githubusercontent.com/68311262/104753777-cd3ff400-579b-11eb-8ff6-c5510ccd1cea.JPG)
