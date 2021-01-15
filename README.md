@@ -60,3 +60,7 @@ OS 및 DB : Windows 10, Linux, MariaDB
 개발 Tool : Eclipse, VS Code, GitHub
 ```
 
+## 웹사이트 예시
+
+#### 메인 화면
+![search](https://user-images.githubusercontent.com/68311262/104751431-b8ae2c80-5798-11eb-8f13-168227875ceb.JPG)
